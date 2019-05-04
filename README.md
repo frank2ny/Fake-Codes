@@ -6,4 +6,4 @@
 
 ## creating a simple web page containing a Client, Testimonial and Contactus Pages 
 
-## thank to Frank JOHn
+## thank to ALCwithForloop
