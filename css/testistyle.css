@@ -7,7 +7,7 @@
   }
   
   .container::after {
-    content: "";
+    /* content: ""; */
     clear: both;
     display: table;
   }
