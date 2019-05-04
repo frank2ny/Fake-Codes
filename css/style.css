@@ -1,6 +1,7 @@
 section{
     display:block;
-}ul {
+}
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -31,7 +32,7 @@ section{
   .active {
     background-color: #4CAF50;
   }
-  {
+  li{
     font-family: Arial, Helvetica, sans-serif;
   }
   
